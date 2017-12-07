@@ -59,20 +59,16 @@ cpuminer_SOURCES = \
   algo/bmw/bmw256.c \
   algo/cryptonight/cryptolight.c \
   algo/cryptonight/cryptonight-common.c\
-  algo/cryptonight/cryptonight-aesni.c\
   algo/cryptonight/cryptonight.c\
   algo/cubehash/sph_cubehash.c \
   algo/cubehash/sse2/cubehash_sse2.c\
   algo/drop.c \
   algo/echo/sph_echo.c \
-  algo/echo/aes_ni/hash.c\
   algo/fresh.c \
   algo/gost/sph_gost.c \
   algo/groestl/sph_groestl.c \
   algo/groestl/groestl.c \
   algo/groestl/myr-groestl.c \
-  algo/groestl/aes_ni/hash-groestl.c \
-  algo/groestl/aes_ni/hash-groestl256.c \
   algo/fugue/sph_fugue.c \
   algo/hamsi/sph_hamsi.c \
   algo/haval/haval.c\
